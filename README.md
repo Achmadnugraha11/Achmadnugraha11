@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Achmadnugraha11
+- 👋 Hi, I’m Achmad Nugraha
 - 👀 I’m interested in web depelovment
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning from youtube
+- ⭐ My dream is to become a front end dev
 
 <!---
 Achmadnugraha11/Achmadnugraha11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
